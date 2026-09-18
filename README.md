@@ -7,8 +7,10 @@ https://youtu.be/cZY53WbCxFY
 ### Examples
 Example query: Compare the USNC compliance rate between China and Netherlands in 2024 Q3.
 <img width="823" height="455" alt="image" src="https://github.com/user-attachments/assets/6a648a7e-f2d4-4e65-9c10-7f3a17bf16ae" />
+
 Example query: Show the PNS compliance rate trend for [BRAND] in EU from 2023 Q3 to 2025 Q3.
 <img width="834" height="561" alt="image" src="https://github.com/user-attachments/assets/0c729f81-cb0a-427e-8692-64673527cabb" />
+
 Example query: A soup label shows sodium = 60 mg/100 ml. Can it be claimed as “low sodium” in the EU?
 <img width="2428" height="904" alt="image" src="https://github.com/user-attachments/assets/4ae40b03-6686-4049-a507-6cec25f71ef3" />
 

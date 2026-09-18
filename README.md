@@ -1,4 +1,4 @@
-# OmniInsight-BI
+# Project: GenAI-Powered Dashboard Analytics Assistan
 A schema-grounded AI copilot for multi-source BI analysis, dashboard querying, compliance checking, and explainable insights.
 
 ### Demo

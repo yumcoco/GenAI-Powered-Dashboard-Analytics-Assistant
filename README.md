@@ -1,5 +1,5 @@
 
-# Project: GenAI-Powered Dashboard Analytics Assistan
+# Project: GenAI-Powered Dashboard Analytics Assistant
 A schema-grounded AI copilot for multi-source BI analysis, dashboard querying, compliance checking, and explainable insights.
 > **Note on code availability**
 > This project was originally built during an enterprise internship. The internal source code, business logic, and proprietary data are not publicly available due to confidentiality agreements. This repository showcases the **system architecture, functionality, and demo** only — no internal implementation or company-specific code is included.
